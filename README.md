@@ -55,20 +55,11 @@ The restaurant industry faces challenges such as time and inventory management, 
 - Offer both Dine-in and To-Go options.
 - Analyze sales trends and customer preferences.
 
-## Installation
-1. Clone the repository.
-2. Set up the database schema provided in `/schema.sql`.
-3. Configure the database connection in `config.py`.
-4. Run the application using:
-    ```bash
-    python app.py
-    ```
+
 
 ## Restrictions
 This project is for academic purposes only and **cannot be used** or redistributed by others without permission.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 - **Contributors:** Vishnu Reddy
